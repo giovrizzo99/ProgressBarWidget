@@ -11,7 +11,7 @@
       .progress-container {
           width: 100%;
           height: 100%;
-          background-color: var(--empty-bar-color, #e0e0e0);
+          background-color: var(--empty-bar-color, #a9b4be);
           border-radius: 5px;
           overflow: hidden;
           position: relative;
@@ -20,7 +20,7 @@
       .progress-bar {
           height: 100%;
           width: 0%;
-          background-color: var(--bar-color, #03ff4f);
+          background-color: var(--bar-color, #00243b);
           transition: width 0.5s ease-in-out;
       }
 
@@ -57,8 +57,8 @@
       const progressBar = this.shadowRoot.querySelector(".progress-bar");
       const progressText = this.shadowRoot.querySelector(".progress-text");
 
-      const barColor = this._props.barColor || "#03ff4f";
-      const emptyBarColor = this._props.emptyBarColor || "#e0e0e0";
+      const barColor = this._props.barColor || "#00243b";
+      const emptyBarColor = this._props.emptyBarColor || "#a9b4be";
       const percentage = this._props.percentage || 50;
 
       progressBar.style.width = `${percentage}%`;
