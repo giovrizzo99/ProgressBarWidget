@@ -15,7 +15,7 @@
         {
             "kind": "builder",
             "tag": "com-gr-progressbar-builder",
-            "url": "https://raw.githubusercontent.com/giovrizzo99/ProgressBarWidget/refs/heads/main/ProgressBar_Builder",
+            "url": "https://raw.githubusercontent.com/giovrizzo99/ProgressBarWidget/refs/heads/main/ProgressBar_Builder.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
