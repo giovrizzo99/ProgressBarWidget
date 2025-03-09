@@ -8,14 +8,14 @@
         {
             "kind": "main",
             "tag": "com-gr-progressbar",
-            "url": "https://raw.githubusercontent.com/giovrizzo99/ProgressBarWidget/refs/heads/main/ProgressBar.js",
+            "url": "https:\/\/cdn.jsdelivr.net\/gh\/giovrizzo99\/ProgressBarWidget@main\/ProgressBar.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
             "tag": "com-gr-progressbar-builder",
-            "url": "https://raw.githubusercontent.com/giovrizzo99/ProgressBarWidget/refs/heads/main/ProgressBar_Builder.js",
+            "url": "https:\/\/cdn.jsdelivr.net\/gh\/giovrizzo99\/ProgressBarWidget@main\/ProgressBar_Builder.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
